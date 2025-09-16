@@ -16,6 +16,7 @@ const translations = {
     'nav.home': 'Home',
     'nav.about': 'About',
     'nav.services': 'Services', 
+    'nav.vision': 'Vision',
     'nav.app': 'FasalSetu APP',
     'nav.contact': 'Contact',
     'nav.tagline': 'Agriculture Technology Hub',
@@ -35,6 +36,18 @@ const translations = {
     // Features
     'features.title': 'Why Choose FasalSetu?',
     'features.description': 'FasalSetu brings together traditional farming wisdom with modern technology to create sustainable solutions for india\'s agricultural future.',
+
+    // Vision Page
+    'vision.badge': 'Our Vision',
+    'vision.heading': 'Building the Future of',
+    'vision.highlight1.title': 'Digital India Agriculture',
+    'vision.highlight1.desc': 'Transforming traditional farming through cutting-edge AI technology to build a self-reliant agricultural ecosystem.',
+    'vision.highlight2.title': 'Farmer Empowerment',
+    'vision.highlight2.desc': 'Providing every farmer with free access to intelligent farming solutions, regardless of farm size or economic background.',
+    'vision.highlight3.title': 'Sustainable Future',
+    'vision.highlight3.desc': 'Promoting eco-friendly farming practices that protect our environment while ensuring food security for all citizens.',
+    'vision.highlight4.title': 'Economic Growth',
+    'vision.highlight4.desc': 'Boosting agricultural productivity and farmer income through data-driven insights and smart farming techniques.',
     
     // About Page
     'about.badge': 'About FasalSetu',
@@ -74,6 +87,7 @@ const translations = {
     'nav.home': 'ഹോം',
     'nav.about': 'കുറിച്ച്',
     'nav.services': 'സേവനങ്ങൾ',
+    'nav.vision': 'ദർശനം',
     'nav.app': 'ഫസൽസേതു ആപ്',
     'nav.contact': 'ബന്ധപ്പെടുക',
     'nav.tagline': 'കേരള കാർഷിക സാങ്കേതികവിദ്യാ കേന്ദ്രം',
@@ -93,6 +107,18 @@ const translations = {
     // Features
     'features.title': 'എന്തുകൊണ്ട് ഫസൽസേതു തിരഞ്ഞെടുക്കണം?',
     'features.description': 'ഫസൽസേതു പരമ്പരാഗത കാർഷിക ജ്ഞാനത്തെ ആധുനിക സാങ്കേതികവിദ്യയുമായി സംയോജിപ്പിച്ച് കേരളത്തിന്റെ കാർഷിക ഭാവിക്കായി സുസ്ഥിര പരിഹാരങ്ങൾ സൃഷ്ടിക്കുന്നു.',
+
+    // Vision Page
+    'vision.badge': 'ഞങ്ങളുടെ ദർശനം',
+    'vision.heading': 'ഇന്ത്യൻ കാർഷികത്തിന്റെ ഭാവി',
+    'vision.highlight1.title': 'ഡിജിറ്റൽ ഇന്ത്യ കാർഷികം',
+    'vision.highlight1.desc': 'സ്വയംപര്യാപ്ത കാർഷിക പരിസ്ഥിതി സൃഷ്ടിക്കാൻ അത്യാധുനിക AI ഉപയോഗിച്ച് പരമ്പരാഗത കൃഷിയെ മാറ്റുന്നു.',
+    'vision.highlight2.title': 'കർഷക ശാക്തീകരണം',
+    'vision.highlight2.desc': 'കൃഷിയിടത്തിന്റെ വലിപ്പമോ സാമ്പത്തിക പശ്ചാത്തലമോ നോക്കാതെ ബുദ്ധിമാനായ കാർഷിക പരിഹാരങ്ങളിലേക്ക് സൗജന്യ പ്രവേശനം നൽകുന്നു.',
+    'vision.highlight3.title': 'സുസ്ഥിര ഭാവി',
+    'vision.highlight3.desc': 'പരിസ്ഥിതിയെ സംരക്ഷിക്കുന്നതോടൊപ്പം എല്ലാവർക്കും ഭക്ഷ്യസുരക്ഷ ഉറപ്പാക്കുന്ന സൗഹൃദ കൃഷിരീതികൾ പ്രോത്സാഹിപ്പിക്കുന്നു.',
+    'vision.highlight4.title': 'സാമ്പത്തിക വളർച്ച',
+    'vision.highlight4.desc': 'ഡാറ്റയെ അടിസ്ഥാനമാക്കിയുള്ള ഉൾക്കാഴ്ചകളും സ്മാർട്ട് കൃഷിരീതികളും വഴി കാർഷിക ഉൽപാദനക്ഷമതയും കർഷകവരുമാനവും വർദ്ധിപ്പിക്കുന്നു.',
     
     // About Page
     'about.badge': 'ഫസൽസേതുവിനെക്കുറിച്ച്',
@@ -132,6 +158,7 @@ const translations = {
     'nav.home': 'होम',
     'nav.about': 'के बारे में',
     'nav.services': 'सेवाएं',
+    'nav.vision': 'दृष्टि',
     'nav.app': 'फसलसेतु ऐप',
     'nav.contact': 'संपर्क',
     'nav.tagline': 'केरल कृषि प्रौद्योगिकी केंद्र',
@@ -151,6 +178,18 @@ const translations = {
     // Features
     'features.title': 'फसलसेतु क्यों चुनें?',
     'features.description': 'फसलसेतु पारंपरिक खेती की बुद्धि को आधुनिक तकनीक के साथ मिलाकर केरल के कृषि भविष्य के लिए टिकाऊ समाधान बनाता है।',
+
+    // Vision Page
+    'vision.badge': 'हमारी दृष्टि',
+    'vision.heading': 'भारतीय कृषि का भविष्य',
+    'vision.highlight1.title': 'डिजिटल इंडिया कृषि',
+    'vision.highlight1.desc': 'आत्मनिर्भर कृषि पारिस्थितिकी तंत्र बनाने के लिए अत्याधुनिक AI के साथ पारंपरिक खेती को बदलना।',
+    'vision.highlight2.title': 'किसान सशक्तिकरण',
+    'vision.highlight2.desc': 'खेत के आकार या आर्थिक पृष्ठभूमि की परवाह किए बिना प्रत्येक किसान को बुद्धिमान खेती समाधानों तक निःशुल्क पहुंच।',
+    'vision.highlight3.title': 'टिकाऊ भविष्य',
+    'vision.highlight3.desc': 'पर्यावरण की रक्षा करते हुए सभी के लिए खाद्य सुरक्षा सुनिश्चित करने वाली पर्यावरण अनुकूल खेती प्रथाओं को बढ़ावा देना।',
+    'vision.highlight4.title': 'आर्थिक वृद्धि',
+    'vision.highlight4.desc': 'डेटा-चालित अंतर्दृष्टि और स्मार्ट खेती तकनीकों के माध्यम से कृषि उत्पादकता और किसान आय को बढ़ावा देना।',
     
     // About Page
     'about.badge': 'फसलसेतु के बारे में',

@@ -19,6 +19,7 @@ const languages = [
 const navigationItems = [
   { key: 'nav.home', href: "/" },
   { key: 'nav.about', href: "/about" },
+  { key: 'nav.vision', href: "/vision" },
   { key: 'nav.services', href: "/services" },
   { key: 'nav.app', href: "/fasalsetu-app" },
   { key: 'nav.contact', href: "/contact" },
